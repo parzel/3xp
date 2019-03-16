@@ -1,0 +1,66 @@
+[submodule "docs/PayloadsAllTheThings"]
+	path = docs/PayloadsAllTheThings
+	url = https://github.com/swisskyrepo/PayloadsAllTheThings
+[submodule "enumeration/windows/JAWS"]
+	path = enumeration/windows/JAWS
+	url = https://github.com/411Hall/JAWS
+[submodule "enumeration/linux/LinEnum"]
+	path = enumeration/linux/LinEnum
+	url = https://github.com/rebootuser/LinEnum.git
+[submodule "enumeration/subdomains/Sublist3r"]
+	path = enumeration/subdomains/Sublist3r
+	url = https://github.com/aboul3la/Sublist3r.git
+[submodule "osint/websites/EyeWitness"]
+	path = osint/websites/EyeWitness
+	url = https://github.com/FortyNorthSecurity/EyeWitness.git
+[submodule "osint/leaks/pwnedOrNot"]
+	path = osint/leaks/pwnedOrNot
+	url = https://github.com/thewhiteh4t/pwnedOrNot.git
+[submodule "bruteforce/gobuster"]
+	path = bruteforce/gobuster
+	url = https://github.com/OJ/gobuster.git
+[submodule "bruteforce/wfuzz"]
+	path = bruteforce/wfuzz
+	url = https://github.com/xmendez/wfuzz
+[submodule "privesc/linux-exploit-suggester-2"]
+	path = privesc/linux-exploit-suggester-2
+	url = https://github.com/jondonas/linux-exploit-suggester-2.git
+[submodule "scanning/GitTools"]
+	path = scanning/GitTools
+	url = https://github.com/internetwache/GitTools
+[submodule "osint/wordlists/CeWL"]
+	path = osint/wordlists/CeWL
+	url = https://github.com/digininja/CeWL
+[submodule "enumeration/cms/Typo-Enumerator"]
+	path = enumeration/cms/Typo-Enumerator
+	url = https://github.com/whoot/Typo-Enumerator
+[submodule "scanning/CMSmap"]
+	path = scanning/CMSmap
+	url = https://github.com/Dionach/CMSmap
+[submodule "scanning/wpscan"]
+	path = scanning/wpscan
+	url = https://github.com/wpscanteam/wpscan
+[submodule "shells/p0wny-shell"]
+	path = shells/p0wny-shell
+	url = https://github.com/flozz/p0wny-shell.git
+[submodule "shells/powershell/unicorn"]
+	path = shells/powershell/unicorn
+	url = https://github.com/trustedsec/unicorn
+[submodule "shells/revshell-creator"]
+	path = shells/revshell-creator
+	url = https://github.com/parzel/revshell-creator
+[submodule "shells/php/php-reverse-shell"]
+	path = shells/php/php-reverse-shell
+	url = https://github.com/pentestmonkey/php-reverse-shell.git
+[submodule "wordlists/SecLists"]
+	path = wordlists/SecLists
+	url = https://github.com/danielmiessler/SecLists
+[submodule "post-exploitation/impacket"]
+	path = post-exploitation/impacket
+	url = https://github.com/SecureAuthCorp/impacket
+[submodule "bypass/antivirus/HackTheWorld"]
+	path = bypass/antivirus/HackTheWorld
+	url = https://github.com/stormshadow07/HackTheWorld
+[submodule "enumeration/protocols/smbmap"]
+	path = enumeration/protocols/smbmap
+	url = https://github.com/ShawnDEvans/smbmap
