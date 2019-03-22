@@ -1,9 +1,6 @@
 [submodule "docs/PayloadsAllTheThings"]
 	path = docs/PayloadsAllTheThings
 	url = https://github.com/swisskyrepo/PayloadsAllTheThings
-[submodule "enumeration/windows/JAWS"]
-	path = enumeration/windows/JAWS
-	url = https://github.com/411Hall/JAWS
 [submodule "enumeration/linux/LinEnum"]
 	path = enumeration/linux/LinEnum
 	url = https://github.com/rebootuser/LinEnum.git
@@ -55,9 +52,6 @@
 [submodule "wordlists/SecLists"]
 	path = wordlists/SecLists
 	url = https://github.com/danielmiessler/SecLists
-[submodule "post-exploitation/impacket"]
-	path = post-exploitation/impacket
-	url = https://github.com/SecureAuthCorp/impacket
 [submodule "bypass/antivirus/HackTheWorld"]
 	path = bypass/antivirus/HackTheWorld
 	url = https://github.com/stormshadow07/HackTheWorld
@@ -82,3 +76,12 @@
 [submodule "exploitation/pwntools"]
 	path = exploitation/pwntools
 	url = https://github.com/Gallopsled/pwntools
+[submodule "exploitation/gef"]
+	path = exploitation/gef
+	url = https://github.com/hugsy/gef.git
+[submodule "allround/impacket"]
+	path = allround/impacket
+	url = https://github.com/SecureAuthCorp/impacket
+[submodule "privesc/JAWS"]
+	path = privesc/JAWS
+	url = https://github.com/411Hall/JAWS
