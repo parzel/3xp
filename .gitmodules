@@ -70,9 +70,6 @@
 [submodule "post-exploitation/static-binaries"]
 	path = post-exploitation/static-binaries
 	url = https://github.com/andrew-d/static-binaries.git
-[submodule "binary/gef"]
-	path = binary/gef
-	url = https://github.com/hugsy/gef.git
 [submodule "post-exploitation/impacket_static_binaries"]
 	path = post-exploitation/impacket_static_binaries
 	url = https://github.com/ropnop/impacket_static_binaries.git
