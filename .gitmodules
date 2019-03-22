@@ -70,9 +70,6 @@
 [submodule "post-exploitation/static-binaries"]
 	path = post-exploitation/static-binaries
 	url = https://github.com/andrew-d/static-binaries.git
-[submodule "binary/checksec.sh"]
-	path = binary/checksec.sh
-	url = https://github.com/slimm609/checksec.sh.git
 [submodule "binary/gef"]
 	path = binary/gef
 	url = https://github.com/hugsy/gef.git
