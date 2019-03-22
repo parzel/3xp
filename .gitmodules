@@ -64,3 +64,27 @@
 [submodule "enumeration/protocols/smbmap"]
 	path = enumeration/protocols/smbmap
 	url = https://github.com/ShawnDEvans/smbmap
+[submodule "privesc/LinEnum"]
+	path = privesc/LinEnum
+	url = https://github.com/rebootuser/LinEnum
+[submodule "post-exploitation/static-binaries"]
+	path = post-exploitation/static-binaries
+	url = https://github.com/andrew-d/static-binaries.git
+[submodule "binary/checksec.sh"]
+	path = binary/checksec.sh
+	url = https://github.com/slimm609/checksec.sh.git
+[submodule "binary/gef"]
+	path = binary/gef
+	url = https://github.com/hugsy/gef.git
+[submodule "post-exploitation/impacket_static_binaries"]
+	path = post-exploitation/impacket_static_binaries
+	url = https://github.com/ropnop/impacket_static_binaries.git
+[submodule "post-exploitation/windapsearch"]
+	path = post-exploitation/windapsearch
+	url = https://github.com/ropnop/windapsearch.git
+[submodule "post-exploitation/kerbrute"]
+	path = post-exploitation/kerbrute
+	url = https://github.com/ropnop/kerbrute
+[submodule "exploitation/pwntools"]
+	path = exploitation/pwntools
+	url = https://github.com/Gallopsled/pwntools
