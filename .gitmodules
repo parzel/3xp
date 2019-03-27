@@ -85,3 +85,6 @@
 [submodule "privesc/JAWS"]
 	path = privesc/JAWS
 	url = https://github.com/411Hall/JAWS
+[submodule "post-exploitation/chisel"]
+	path = post-exploitation/chisel
+	url = https://github.com/jpillora/chisel
