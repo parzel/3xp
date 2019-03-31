@@ -88,3 +88,9 @@
 [submodule "post-exploitation/chisel"]
 	path = post-exploitation/chisel
 	url = https://github.com/jpillora/chisel
+[submodule "exploitation/libc-database"]
+	path = exploitation/libc-database
+	url = https://github.com/niklasb/libc-database.git
+[submodule "post-exploitation/pspy"]
+	path = post-exploitation/pspy
+	url = https://github.com/DominicBreuker/pspy.git
