@@ -5,7 +5,7 @@
 	path = enumeration/linux/LinEnum
 	url = https://github.com/rebootuser/LinEnum.git
 [submodule "enumeration/subdomains/Sublist3r"]
-	path = enumeration/subdomains/Sublist3r
+	path = osint/subdomains/Sublist3r
 	url = https://github.com/aboul3la/Sublist3r.git
 [submodule "osint/websites/EyeWitness"]
 	path = osint/websites/EyeWitness
@@ -20,10 +20,10 @@
 	path = bruteforce/wfuzz
 	url = https://github.com/xmendez/wfuzz
 [submodule "privesc/linux-exploit-suggester-2"]
-	path = privesc/linux-exploit-suggester-2
+	path = privesc/linux/linux-exploit-suggester-2
 	url = https://github.com/jondonas/linux-exploit-suggester-2.git
 [submodule "scanning/GitTools"]
-	path = scanning/GitTools
+	path = enumeration/protocols&tools/GitTools
 	url = https://github.com/internetwache/GitTools
 [submodule "osint/wordlists/CeWL"]
 	path = osint/wordlists/CeWL
@@ -32,10 +32,10 @@
 	path = enumeration/cms/Typo-Enumerator
 	url = https://github.com/whoot/Typo-Enumerator
 [submodule "scanning/CMSmap"]
-	path = scanning/CMSmap
+	path = enumeration/cms/CMSmap
 	url = https://github.com/Dionach/CMSmap
 [submodule "scanning/wpscan"]
-	path = scanning/wpscan
+	path = enumeration/cms/wpscan
 	url = https://github.com/wpscanteam/wpscan
 [submodule "shells/p0wny-shell"]
 	path = shells/p0wny-shell
@@ -56,22 +56,22 @@
 	path = bypass/antivirus/HackTheWorld
 	url = https://github.com/stormshadow07/HackTheWorld
 [submodule "enumeration/protocols/smbmap"]
-	path = enumeration/protocols/smbmap
+	path = enumeration/protocols&tools/smbmap
 	url = https://github.com/ShawnDEvans/smbmap
 [submodule "privesc/LinEnum"]
-	path = privesc/LinEnum
+	path = privesc/linux/LinEnum
 	url = https://github.com/rebootuser/LinEnum
 [submodule "post-exploitation/static-binaries"]
-	path = post-exploitation/static-binaries
+	path = post-exploitation/linux/static-binaries
 	url = https://github.com/andrew-d/static-binaries.git
 [submodule "post-exploitation/impacket_static_binaries"]
-	path = post-exploitation/impacket_static_binaries
+	path = active-directory/impacket_static_binaries
 	url = https://github.com/ropnop/impacket_static_binaries.git
 [submodule "post-exploitation/windapsearch"]
-	path = post-exploitation/windapsearch
+	path = active-directory/windapsearch
 	url = https://github.com/ropnop/windapsearch.git
 [submodule "post-exploitation/kerbrute"]
-	path = post-exploitation/kerbrute
+	path = active-directory/kerbrute
 	url = https://github.com/ropnop/kerbrute
 [submodule "exploitation/pwntools"]
 	path = exploitation/pwntools
@@ -80,10 +80,10 @@
 	path = exploitation/gef
 	url = https://github.com/hugsy/gef.git
 [submodule "allround/impacket"]
-	path = allround/impacket
+	path = active-directory/impacket
 	url = https://github.com/SecureAuthCorp/impacket
 [submodule "privesc/JAWS"]
-	path = privesc/JAWS
+	path = privesc/windows/JAWS
 	url = https://github.com/411Hall/JAWS
 [submodule "post-exploitation/chisel"]
 	path = post-exploitation/chisel
@@ -92,8 +92,14 @@
 	path = exploitation/libc-database
 	url = https://github.com/niklasb/libc-database.git
 [submodule "post-exploitation/pspy"]
-	path = post-exploitation/pspy
+	path = post-exploitation/linux/pspy
 	url = https://github.com/DominicBreuker/pspy.git
 [submodule "post-exploitation/Empire"]
-	path = post-exploitation/Empire
+	path = post-exploitation/windows/Empire
 	url = https://github.com/EmpireProject/Empire.git
+[submodule "privesc/PowerSploit"]
+	path = privesc/windows/PowerSploit
+	url = https://github.com/PowerShellMafia/PowerSploit.git
+[submodule "privesc/linux/linuxprivchecker"]
+	path = privesc/linux/linuxprivchecker
+	url = https://github.com/sleventyeleven/linuxprivchecker.git
