@@ -94,3 +94,6 @@
 [submodule "post-exploitation/pspy"]
 	path = post-exploitation/pspy
 	url = https://github.com/DominicBreuker/pspy.git
+[submodule "post-exploitation/Empire"]
+	path = post-exploitation/Empire
+	url = https://github.com/EmpireProject/Empire.git
