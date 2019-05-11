@@ -4,9 +4,6 @@
 [submodule "enumeration/linux/LinEnum"]
 	path = enumeration/linux/LinEnum
 	url = https://github.com/rebootuser/LinEnum.git
-[submodule "enumeration/subdomains/Sublist3r"]
-	path = osint/subdomains/Sublist3r
-	url = https://github.com/aboul3la/Sublist3r.git
 [submodule "osint/websites/EyeWitness"]
 	path = osint/websites/EyeWitness
 	url = https://github.com/FortyNorthSecurity/EyeWitness.git
@@ -106,3 +103,21 @@
 [submodule "bypass/Veil"]
 	path = bypass/Veil
 	url = https://github.com/Veil-Framework/Veil.git
+[submodule "privesc/linux/linux-kernel-exploits"]
+	path = privesc/linux/linux-kernel-exploits
+	url = https://github.com/SecWiki/linux-kernel-exploits.git
+[submodule "docs/tbhm"]
+	path = docs/tbhm
+	url = https://github.com/jhaddix/tbhm.git
+[submodule "osint/subdomains/amass"]
+	path = enumeration/subdomains/amass
+	url = https://github.com/caffix/amass
+[submodule "osint/subdomains/subfinder"]
+	path = enumeration/subdomains/subfinder
+	url = https://github.com/subfinder/subfinder
+[submodule "enumeration/subdomains/massdns"]
+	path = enumeration/subdomains/massdns
+	url = https://github.com/blechschmidt/massdns
+[submodule "wordlists/jhaddix-all"]
+	path = wordlists/jhaddix-all
+	url = https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056
