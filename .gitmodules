@@ -106,9 +106,6 @@
 [submodule "privesc/linux/linux-kernel-exploits"]
 	path = privesc/linux/linux-kernel-exploits
 	url = https://github.com/SecWiki/linux-kernel-exploits.git
-[submodule "docs/tbhm"]
-	path = docs/tbhm
-	url = https://github.com/jhaddix/tbhm.git
 [submodule "osint/subdomains/amass"]
 	path = enumeration/subdomains/amass
 	url = https://github.com/caffix/amass
@@ -121,3 +118,27 @@
 [submodule "wordlists/jhaddix-all"]
 	path = wordlists/jhaddix-all
 	url = https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056
+[submodule "enumeration/subdomains/EyeWitness"]
+	path = enumeration/subdomains/EyeWitness
+	url = https://github.com/FortyNorthSecurity/EyeWitness.git
+[submodule "wordlists/RobotsDisallowed"]
+	path = wordlists/RobotsDisallowed
+	url = https://github.com/danielmiessler/RobotsDisallowed.git
+[submodule "docs/can-i-take-over-xyz"]
+	path = docs/can-i-take-over-xyz
+	url = https://github.com/EdOverflow/can-i-take-over-xyz
+[submodule "web/bXSS"]
+	path = web/bXSS
+	url = https://github.com/LewisArdern/bXSS
+[submodule "web/commix"]
+	path = web/commix
+	url = https://github.com/commixproject/commix
+[submodule "web/tplmap"]
+	path = web/tplmap
+	url = https://github.com/epinna/tplmap
+[submodule "wordlists/jhaddix-content-discovery"]
+	path = wordlists/jhaddix-content-discovery
+	url = https://gist.github.com/jhaddix/b80ea67d85c13206125806f0828f4d10
+[submodule "web/JSParser"]
+	path = web/JSParser
+	url = https://github.com/nahamsec/JSParser
