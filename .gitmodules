@@ -2,7 +2,7 @@
 	path = docs/PayloadsAllTheThings
 	url = https://github.com/swisskyrepo/PayloadsAllTheThings
 [submodule "enumeration/linux/LinEnum"]
-	path = enumeration/linux/LinEnum
+	path = recon/linux/LinEnum
 	url = https://github.com/rebootuser/LinEnum.git
 [submodule "osint/websites/EyeWitness"]
 	path = osint/websites/EyeWitness
@@ -20,19 +20,19 @@
 	path = privesc/linux/linux-exploit-suggester-2
 	url = https://github.com/jondonas/linux-exploit-suggester-2.git
 [submodule "scanning/GitTools"]
-	path = enumeration/protocols&tools/GitTools
+	path = recon/GitTools
 	url = https://github.com/internetwache/GitTools
 [submodule "osint/wordlists/CeWL"]
 	path = osint/wordlists/CeWL
 	url = https://github.com/digininja/CeWL
 [submodule "enumeration/cms/Typo-Enumerator"]
-	path = enumeration/cms/Typo-Enumerator
+	path = recon/cms/Typo-Enumerator
 	url = https://github.com/whoot/Typo-Enumerator
 [submodule "scanning/CMSmap"]
-	path = enumeration/cms/CMSmap
+	path = recon/cms/CMSmap
 	url = https://github.com/Dionach/CMSmap
 [submodule "scanning/wpscan"]
-	path = enumeration/cms/wpscan
+	path = recon/cms/wpscan
 	url = https://github.com/wpscanteam/wpscan
 [submodule "shells/p0wny-shell"]
 	path = shells/p0wny-shell
@@ -53,7 +53,7 @@
 	path = bypass/HackTheWorld
 	url = https://github.com/stormshadow07/HackTheWorld
 [submodule "enumeration/protocols/smbmap"]
-	path = enumeration/protocols&tools/smbmap
+	path = recon/smbmap
 	url = https://github.com/ShawnDEvans/smbmap
 [submodule "privesc/LinEnum"]
 	path = privesc/linux/LinEnum
@@ -113,13 +113,10 @@
 	path = enumeration/subdomains/subfinder
 	url = https://github.com/subfinder/subfinder
 [submodule "enumeration/subdomains/massdns"]
-	path = enumeration/subdomains/massdns
+	path = recon/subdomains/massdns
 	url = https://github.com/blechschmidt/massdns
-[submodule "wordlists/jhaddix-all"]
-	path = wordlists/jhaddix-all
-	url = https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056
 [submodule "enumeration/subdomains/EyeWitness"]
-	path = enumeration/subdomains/EyeWitness
+	path = recon/subdomains/EyeWitness
 	url = https://github.com/FortyNorthSecurity/EyeWitness.git
 [submodule "wordlists/RobotsDisallowed"]
 	path = wordlists/RobotsDisallowed
@@ -142,3 +139,39 @@
 [submodule "web/JSParser"]
 	path = web/JSParser
 	url = https://github.com/nahamsec/JSParser
+[submodule "enumeration/subdomains/Amass"]
+	path = recon/subdomains/Amass
+	url = https://github.com/OWASP/Amass
+[submodule "enumeration/subdomains/subfinder"]
+	path = recon/subdomains/subfinder
+	url = https://github.com/subfinder/subfinder.git
+[submodule "enumeration/subdomains/Snapper"]
+	path = recon/subdomains/Snapper
+	url = https://github.com/dxa4481/Snapper.git
+[submodule "docs/bounty-targets-data"]
+	path = docs/bounty-targets-data
+	url = https://github.com/arkadiyt/bounty-targets-data.git
+[submodule "docs/fuzzdb"]
+	path = docs/fuzzdb
+	url = https://github.com/fuzzdb-project/fuzzdb.git
+[submodule "exploitation/exploitable"]
+	path = exploitation/exploitable
+	url = https://github.com/jfoote/exploitable
+[submodule "osint/websites/WhatWeb"]
+	path = osint/websites/WhatWeb
+	url = https://github.com/urbanadventurer/WhatWeb
+[submodule "fuzzing/fuzzotron"]
+	path = fuzzing/fuzzotron
+	url = https://github.com/denandz/fuzzotron
+[submodule "fuzzing/radamsa"]
+	path = fuzzing/radamsa
+	url = https://gitlab.com/akihe/radamsa.git
+[submodule "exploitation/pacu"]
+	path = exploitation/pacu
+	url = https://github.com/RhinoSecurityLabs/pacu
+[submodule "recon/github-dorks"]
+	path = recon/github-dorks
+	url = https://github.com/techgaun/github-dorks.git
+[submodule "recon/gitrob"]
+	path = recon/gitrob
+	url = https://github.com/michenriksen/gitrob/
