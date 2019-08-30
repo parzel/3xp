@@ -175,3 +175,12 @@
 [submodule "recon/gitrob"]
 	path = recon/gitrob
 	url = https://github.com/michenriksen/gitrob/
+[submodule "exploitation/scanmem"]
+	path = exploitation/scanmem
+	url = https://github.com/scanmem/scanmem
+[submodule "docs/shodan-filters"]
+	path = docs/shodan-filters
+	url = https://github.com/JavierOlmedo/shodan-filters
+[submodule "recon/subdomains/altdns"]
+	path = recon/subdomains/altdns
+	url = https://github.com/infosec-au/altdns
