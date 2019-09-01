@@ -184,3 +184,12 @@
 [submodule "recon/subdomains/altdns"]
 	path = recon/subdomains/altdns
 	url = https://github.com/infosec-au/altdns
+[submodule "web/Arjun"]
+	path = web/Arjun
+	url = https://github.com/s0md3v/Arjun.git
+[submodule "web/ysoserial.net"]
+	path = web/ysoserial.net
+	url = https://github.com/pwntester/ysoserial.net.git
+[submodule "exploitation/ysoserial.net"]
+	path = exploitation/ysoserial.net
+	url = https://github.com/pwntester/ysoserial.net.git
