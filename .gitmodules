@@ -193,3 +193,6 @@
 [submodule "exploitation/ysoserial.net"]
 	path = exploitation/ysoserial.net
 	url = https://github.com/pwntester/ysoserial.net.git
+[submodule "bruteforce/lazys3"]
+	path = bruteforce/lazys3
+	url = https://github.com/nahamsec/lazys3
